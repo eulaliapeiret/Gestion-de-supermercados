@@ -1,0 +1,15 @@
+DIRECTORI: EXE
+
+DESCRIPCIO: Executable del projecte i dels jocs de prova.
+
+ARXIUS:
+	entrega1-driver.jar
+	projecte.jar
+	entrega1-jocsDeProva.sh
+	compilar.sh
+
+OBSERVACIONS:
+Es possible que s'hagin de canviar els permissos per poder executar els scripts. Es pot fer executant "chmod +x fitxer"
+El script executable.sh compila el projecte de la tercera entrega i el deixa en el directori actual com a projecte.jar
+Tambe es pot trobar el entrega1-driver.jar, un jar ja compilar que s'executa amb "java -jar driver.jar"
+Els jocs de prova de la primera entrega es poden executar amb la comanda “./entrega1-jocsDeProva.sh n ->”	on n es el joc de prova a utilitzar (del 1 al 13). Cal tenir linux OS.

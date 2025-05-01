@@ -1,0 +1,6 @@
+Aquest es el directori arrel.
+En aquest directori es pot trobar la descripcio dels membres de l'equip (noms, e-mails de la facultat i e-mails alternatius).
+Tambe, es poden trobar els tres directoris principals: DOCS, FONTS i EXE.
+A DOCS es poden trobar els documents requerits en l'entrega.
+A FONTS hi ha l'estructura del codi del projecte. Es poden trobar totes les classes implementades i un fitxer de comandes amb les opcions per compilar els drivers.
+A EXE es poden trobar els executables de les classes i funcionalitats implementades. Tambe els jocs de prova.
